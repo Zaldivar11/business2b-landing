@@ -1,0 +1,4 @@
+:HL["/business2b-landing/_next/static/chunks/3ms68hf9ko411.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"XNXSQ3eNbz0paUtP797tL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

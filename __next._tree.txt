@@ -1,0 +1,7 @@
+:HL["/business2b-landing/_next/static/chunks/3ms68hf9ko411.css","style"]
+:HL["/business2b-landing/_next/static/media/4abaa664b12c7384-s.p.02ijsf_oy6edf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/business2b-landing/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/business2b-landing/_next/static/media/a85fe84266768609-s.p.0h6ig86gwutp4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/business2b-landing/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"XNXSQ3eNbz0paUtP797tL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
